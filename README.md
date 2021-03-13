@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='Prasegram.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/NelsonTejeda/Prasergram/blob/master/Parsegram.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
